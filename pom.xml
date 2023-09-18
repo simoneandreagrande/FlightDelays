@@ -55,8 +55,13 @@
 		    <version>1.7.30</version>
 		</dependency>
 
-        
-    </dependencies>
+
+		<dependency>
+			<groupId>it.polito.tdp</groupId>
+			<artifactId>GestoreCorsi</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
     <build>
         <plugins>
             <plugin>
